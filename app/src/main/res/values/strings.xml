@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PrakPAMUAS</string>
+    <string name="Login">Sign-In</string>
+    <string name="acc">Email</string>
+    <string name="pass">Password</string>
+    <string name="Forgot">Forgot Password ?</string>
+    <string name="list">Menu</string>
+    <string name="Harga">Price</string>
+    <string name="H_Detail">Detail</string>
+    <string name="menu_detail">Detail Menu</string>
+    <string name="keluar">Sign-Out</string>
+    <string name="set">Settings</string>
+    <string name="Prof">My Profile</string>
+    <string name="judul">Title</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+
+
+</resources>
